@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #d7d9df;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+input, button {
+    padding: 8px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    border-color: #838488;
+}
+
+input {
+    background-color: #fff;
+}
+
+button {
+    font-weight: bold;
+}
+
+ul li {
+    list-style: disc;
+    list-style-position: inside;
+    cursor: pointer;
+}
+
+.tarefa {
+    display: inline;
+    font-size: 20px;
+}
